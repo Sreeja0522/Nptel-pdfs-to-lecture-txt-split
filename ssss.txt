@@ -1,0 +1,62 @@
+
+📁 COURSE FOLDER: AK Ghosh(aero)
+   ✅ 101104062.txt → 59 lectures | index: YES
+   ✅ 101104064.txt → 41 lectures | index: YES
+   ✅ 101104066.txt → 20 lectures | index: YES
+   ✅ 101104069.txt → 47 lectures | index: YES
+   ✅ 101104071.txt → 14 lectures | index: YES
+   📊 SUMMARY → TXT: 5, split folders: 5, lectures: 181
+
+📁 COURSE FOLDER: brag bhusan(humanities)
+   ✅ 109104081-1.txt → 39 lectures | index: YES
+   ✅ 109104093.txt → 24 lectures | index: YES
+   📊 SUMMARY → TXT: 2, split folders: 2, lectures: 63
+
+📁 COURSE FOLDER: g bhuvaneswari(electrical)
+   ✅ 108102145.txt → 24 lectures | index: YES
+   ✅ 108102146.txt → 41 lectures | index: YES
+   📊 SUMMARY → TXT: 2, split folders: 2, lectures: 65
+
+📁 COURSE FOLDER: john jose(cs and engg)
+   ✅ 106103183.txt → 29 lectures | index: YES
+   ✅ 106103206.txt → 26 lectures | index: YES
+   📊 SUMMARY → TXT: 2, split folders: 2, lectures: 55
+
+📁 COURSE FOLDER: Kaustubha Mohanty(chemical)
+   ✅ 103103163.txt → 34 lectures | index: YES
+   ✅ 103103207.txt → 38 lectures | index: YES
+   📊 SUMMARY → TXT: 2, split folders: 2, lectures: 72
+
+📁 COURSE FOLDER: koushik deb(civil)
+   ✅ 105105176.txt → 62 lectures | index: YES
+   ✅ 105105200.txt → 66 lectures | index: YES
+   ✅ 105105207.txt → 70 lectures | index: YES
+   📊 SUMMARY → TXT: 3, split folders: 3, lectures: 198
+
+📁 COURSE FOLDER: MainakDas(biotech)
+   ✅ 102104043.txt → 40 lectures | index: YES
+   ✅ 102104057.txt → 42 lectures | index: YES
+   ✅ 102104058.txt → 63 lectures | index: YES
+   ✅ 102104059.txt → 42 lectures | index: YES
+   ✅ 102104062.txt → 23 lectures | index: YES
+   ✅ 102104063.txt → 21 lectures | index: YES
+   ✅ 102104069-1.txt → 40 lectures | index: YES
+   📊 SUMMARY → TXT: 7, split folders: 7, lectures: 271
+
+📁 COURSE FOLDER: p ghosh(chemistry)
+   ✅ 104101091.txt → 60 lectures | index: YES
+   ✅ 104101100.txt → 60 lectures | index: YES
+   ✅ 104101123.txt → 60 lectures | index: YES
+   📊 SUMMARY → TXT: 3, split folders: 3, lectures: 180
+
+📁 COURSE FOLDER: rajat agarwal(management)
+   ✅ 110107074.txt → 40 lectures | index: YES
+   ✅ 110107116.txt → 40 lectures | index: YES
+   ✅ 110107130.txt → 40 lectures | index: YES
+   📊 SUMMARY → TXT: 3, split folders: 3, lectures: 120
+
+================ GLOBAL SUMMARY ================
+Total course folders: 9
+Total TXT files: 29
+Total lectures created: 1205
+Files with NO lecture detected: 0
